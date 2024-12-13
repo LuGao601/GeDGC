@@ -7,7 +7,9 @@ Moreover, the model imposes a graph embedding constraint on both the latent repr
 
 ## GeDGC Model
 
-<img src="figures/model.png" alt="model" align="center" width="800" >
+<p align="center">
+  <img src="figures/model.png" alt="model" width="800" >
+</p>
 
 ## Input and Output Directories
 
@@ -16,7 +18,6 @@ The datasets used by the program are in the ```data``` folder. The output files 
 ## File description
 
 The file descriptions are as follows:
-
 ```
 graph_embedding: The files implementing the SpectralNet
 module/Multi_vae.py: The file for designing the multi-omics variational autoencoder
