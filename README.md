@@ -7,7 +7,7 @@ Moreover, the model imposes a graph embedding constraint on both the latent repr
 
 ## GeDGC Model
 
-<img src="figures/model.png" alt="model" width="800" >
+<img src="figures/model.png" alt="model" align="center" width="800" >
 
 ## Input and Output Directories
 
