@@ -1,10 +1,5 @@
 # GeDGC
 
-## Program Description
-
-GeDGC (Graph-embedded Deep Generative Clustering model) is a deep learning model for single-cell multi-omics data integration, which simultaneously learns the shared latent representations and cluster factors across multiple omics by leveraging Gaussian mixture models.
-Moreover, the model imposes a graph embedding constraint on both the latent representations and the cluster assignments, ensuring the preservation of the intrinsic local data structure among cells.
-
 ## GeDGC Model
 
 <p align="center">
